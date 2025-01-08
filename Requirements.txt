@@ -1,0 +1,4 @@
+**REQUIREMENTS**
+- Python IDLE/ VS Code/ Any other python compiler
+- google.generativeai library
+- tkinter library
