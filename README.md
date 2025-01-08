@@ -75,5 +75,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ---
 
 ## 📧 Contact
-For any questions or support, please reach out to [**Shourya Kapoor**](shouryakapoor13@gmail.com).
+For any questions or support, please reach out to [**Shourya Kapoor**](mailto:shouryakapoor13@gmail.com).
 
